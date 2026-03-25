@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Kyle T. Webster Ultimate Megapack Sampler",
+    "app": "Photoshop",
+    "url": "https://www.kylebrush.com",
+    "free": true,
+    "note": "Free sampler available. Kyle Webster's brushes are the industry standard for digital concept art. His gouache, watercolour, and texture brushes are used by Riot, Disney, and most major studios. Get the sampler first."
+  },
+  {
+    "name": "Sinix Design Concept Art Brushes",
+    "app": "Photoshop / CSP",
+    "url": "https://www.youtube.com/@sinixdesign",
+    "free": true,
+    "note": "Sinix shares his brush settings in various videos. His 'one brush' philosophy (round brush with pressure opacity) is worth learning before loading up on speciality brushes."
+  },
+  {
+    "name": "Loish Free Procreate Brush Set",
+    "app": "Procreate",
+    "url": "https://loish.net/brushes",
+    "free": true,
+    "note": "Loish is one of the most celebrated digital artists. Her free Procreate brush set reflects how she actually paints — soft textured pencils, smooth blending brushes. Excellent for portrait and character work."
+  },
+  {
+    "name": "Clip Studio Paint Free Assets",
+    "app": "Clip Studio Paint",
+    "url": "https://assets.clip-studio.com/en-us/search?category=1&order=popular&type=free",
+    "free": true,
+    "note": "CLIP STUDIO ASSETS has thousands of free brushes rated by the community. Filter by free + highest rated. Particularly good free sets: Real G-Pen, Watercolour Set, Concept Art Rough."
+  },
+  {
+    "name": "True Grit Texture Supply — Free Sampler",
+    "app": "Procreate / Photoshop",
+    "url": "https://truegrittexturesupply.com/pages/free-brushes",
+    "free": true,
+    "note": "Excellent texture and grain brushes. Their free sampler includes brushes that add real-world texture to digital work — makes digital painting feel more organic and less plasticky."
+  },
+  {
+    "name": "Concept Cookie Brush Pack",
+    "app": "Photoshop",
+    "url": "https://gumroad.com/concept_cookie",
+    "free": true,
+    "note": "Concept Cookie (Charles Tan) shares free brush packs via Gumroad. Designed specifically for environment and prop concept art — good textured round and mixer brushes."
+  },
+  {
+    "name": "Shaddy Safadi Concept Art Brushes",
+    "app": "Photoshop",
+    "url": "https://www.gumroad.com/shaddysafadi",
+    "free": true,
+    "note": "Shaddy worked at Naughty Dog and now runs One Pixel Brush. His brush packs are tuned for game concept art workflows. Check Gumroad for free releases."
+  },
+  {
+    "name": "One Pixel Brush Free Resources",
+    "app": "Photoshop",
+    "url": "https://www.onepixelbrush.com/free-resources",
+    "free": true,
+    "note": "One Pixel Brush (Shaddy Safadi + team) regularly releases free brushes, textures, and colour palettes specifically for concept art and visual development. Bookmark this."
+  },
+  {
+    "name": "Daub Brushes — Free Procreate Set",
+    "app": "Procreate",
+    "url": "https://daubbrushesinc.com/free-brushes",
+    "free": true,
+    "note": "Daub makes Procreate brushes used by many concept and illustration artists. Their free tier is surprisingly generous — includes inking, painting, and texture brushes."
+  },
+  {
+    "name": "Brandon James Greer — Free Pixel Art Brushes",
+    "app": "Aseprite / Procreate",
+    "url": "https://www.youtube.com/@BJGpixel",
+    "free": true,
+    "note": "Directly relevant to your emote commission. BJG shares free pixel art brushes and templates for game sprites. Clean, simple, professional-grade for game-ready pixel art."
+  },
+  {
+    "name": "Adobe Fresco Live Brushes",
+    "app": "Adobe Fresco",
+    "url": "https://www.adobe.com/uk/products/fresco.html",
+    "free": true,
+    "note": "Adobe Fresco is free on iPad and includes live watercolour and oil brushes that behave realistically. If you work on iPad, this is worth having alongside Procreate for certain textures."
+  },
+  {
+    "name": "Procreate Default Brush Exploration",
+    "app": "Procreate",
+    "url": "https://procreate.com/handbook/procreate/drawing-tools/brush-library",
+    "free": true,
+    "note": "Before downloading packs, master the default Procreate brushes. Most pros use a small selection of defaults. Key ones: 6B Pencil (sketching), Soft Airbrush (blending), Gouache (painting), Dry Ink (texture)."
+  },
+  {
+    "name": "Gumroad Free Concept Art Brushes Tag",
+    "app": "Various",
+    "url": "https://gumroad.com/discover?query=free+concept+art+brushes",
+    "free": true,
+    "note": "Search Gumroad for 'free concept art brushes' regularly — artists often do free releases for milestones or promotions. Sort by newest to catch fresh drops."
+  },
+  {
+    "name": "Noah Bradley's Free Brush Pack",
+    "app": "Photoshop",
+    "url": "https://gumroad.com/noahbradley",
+    "free": true,
+    "note": "Noah Bradley (fantasy illustrator, worked on Magic: The Gathering) shares free resources including brushes. His painting approach is useful to study for fantasy/game concept art."
+  },
+  {
+    "name": "Photoshop Default Round Brush Settings",
+    "app": "Photoshop",
+    "url": "https://www.ctrlpaint.com/videos/tool-settings-the-round-brush",
+    "free": true,
+    "note": "Before hunting for brushes: a single round brush with Flow + Opacity on pressure sensitivity will get you 90% of the way there. Ctrl+Paint has a free video on this exact topic."
+  }
+]

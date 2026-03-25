@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# Newsletter config (contains email credentials — never commit)
+tools/newsletter/config.json
+
+# Generated output (local only)
+newsletters/
+references/
+
+# Environment
+.env
+.venv/
+venv/

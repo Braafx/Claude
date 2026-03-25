@@ -1,0 +1,152 @@
+[
+  {
+    "type": "palette_challenge",
+    "title": "Palette Challenge: Sly Cooper Midnight",
+    "content": "Limit yourself to exactly 4 colours: deep navy (#1a1f3c), warm sand (#c8a96e), soft teal highlight (#4ecdc4), and off-white (#f5f0e8). Paint anything. The constraint is the exercise."
+  },
+  {
+    "type": "palette_challenge",
+    "title": "Palette Challenge: Luigi's Mansion Cold Room",
+    "content": "4 colours only: slate blue-grey (#3d5a80), pale mint (#c8e6c9), warm amber (#f4a261), deep shadow (#1a1a2e). Build a small moody scene."
+  },
+  {
+    "type": "palette_challenge",
+    "title": "Palette Challenge: Ratchet & Clank Sci-Fi",
+    "content": "5 colours: electric teal (#00d4ff), deep charcoal (#2d2d2d), warm orange (#ff6b35), chrome white (#e8e8e8), deep space navy (#0a0f2e). Great for sci-fi props."
+  },
+  {
+    "type": "palette_challenge",
+    "title": "Palette Challenge: PS2 Sunset",
+    "content": "Capture that late-PS2-era warmth: burnt sienna (#8b3a1d), golden orange (#e07b39), sky ochre (#c9a84c), deep shadow brown (#3d1f0a), light cream (#f0ddb0)."
+  },
+  {
+    "type": "palette_challenge",
+    "title": "Palette Challenge: Riot Splash Neutrals",
+    "content": "Riot splash art often uses desaturated backgrounds to push the character forward. Background only: warm grey (#6e6057), cool grey (#5a6472), near-black (#1c1c1e). Foreground: one bold saturated accent. Try it."
+  },
+  {
+    "type": "artist_to_study",
+    "title": "Artist Spotlight: Maciej Kuciara",
+    "content": "Maciej worked at Naughty Dog and CD Projekt Red. His environmental concept art is extraordinary for mood and scale. ArtStation: artstation.com/maciejkuciara — study his value structure in environments."
+  },
+  {
+    "type": "artist_to_study",
+    "title": "Artist Spotlight: Daryl Mandryk",
+    "content": "Daryl is one of the most respected character concept artists in games. His work spans EA, various AAA studios. artstation.com/darylmandryk — study how he handles skin tones and armour material contrast."
+  },
+  {
+    "type": "artist_to_study",
+    "title": "Artist Spotlight: Wei Wang",
+    "content": "Wei Wang painted League of Legends splash art and went on to major film work. His cinematic lighting and emotional character portraiture is exactly the 'splash art level' you're aiming for. artstation.com/wangwei"
+  },
+  {
+    "type": "artist_to_study",
+    "title": "Artist Spotlight: Lois van Baarle (Loish)",
+    "content": "Loish's work bridges concept art and illustration. Her colour and light handling is beautiful and learnable. She also shares brushes and process. loish.net and artstation.com/loish"
+  },
+  {
+    "type": "artist_to_study",
+    "title": "Artist Spotlight: Kienan Lafferty",
+    "content": "Kienan does stylised character art that lives between game concept and illustration — very relevant to the work you want to do. Study his shape language and line weight decisions. artstation.com/kieart"
+  },
+  {
+    "type": "artist_to_study",
+    "title": "Artist Spotlight: Jasmin Habezai-Fekri",
+    "content": "Riot senior concept artist. Her character designs show how Riot balances readable silhouette with rich surface detail. Break down one of her pieces: find the 3-value structure underneath the complex rendering. artstation.com/jasminhabezaifekri"
+  },
+  {
+    "type": "quick_exercise",
+    "title": "10-Minute Exercise: The 3-Value Block",
+    "content": "Pick any subject. Using only 3 values (dark, mid, light — no gradients), block in the entire image. The goal: does it read as a convincing 3D form using only flat value planes? This is the most important skill in painting."
+  },
+  {
+    "type": "quick_exercise",
+    "title": "10-Minute Exercise: 5 Silhouettes",
+    "content": "Paint 5 different character silhouettes in black. No detail — just the shape. Each must read as a different archetype (warrior, mage, rogue, healer, beast) without any interior marks. If the archetype isn't clear in silhouette, the design needs work."
+  },
+  {
+    "type": "quick_exercise",
+    "title": "15-Minute Exercise: Material Study",
+    "content": "Same shape (a sphere), 3 different materials: rusted metal, worn wood, glowing crystal. Don't change the form — change only the edge quality, texture suggestion, and highlight behaviour. This is how you sell material in concept art."
+  },
+  {
+    "type": "quick_exercise",
+    "title": "10-Minute Exercise: Thumbnail Grid",
+    "content": "Do 9 thumbnails (each 3x3cm) of the same subject with different compositions. Rule of thirds, central, low horizon, high horizon, diagonal, etc. You're not drawing — you're designing. Pick the strongest one and continue it."
+  },
+  {
+    "type": "quick_exercise",
+    "title": "20-Minute Exercise: Value Copy",
+    "content": "Find a concept art piece you love. Convert it to greyscale. Now paint a greyscale copy, matching the values as accurately as you can. Don't trace — observe and reproduce. This is how you internalize how professionals build their lighting."
+  },
+  {
+    "type": "quick_exercise",
+    "title": "10-Minute Exercise: Emote Silhouette Test",
+    "content": "For your emote work: sketch 5 different emotion poses for your streamer's character (or a generic mascot). Paint them as solid black shapes at 60x60px. Which emotions are readable? Those are your viable emote designs."
+  },
+  {
+    "type": "industry_fact",
+    "title": "Industry Insight: How Riot Builds a Champion",
+    "content": "Riot's champion development starts with a design pillar — one sentence about the character's thematic identity. Visual development locks in the silhouette before any rendering. Surface detail comes last. The lesson: design precedes detail."
+  },
+  {
+    "type": "industry_fact",
+    "title": "Industry Insight: ArtStation Visibility",
+    "content": "ArtStation's algorithm favours: high-resolution images (min 1920px wide), detailed project descriptions, consistent posting, and engagement (likes and comments from others). Tag properly: #conceptart, #gameart, #digitalpainting, your specific subjects."
+  },
+  {
+    "type": "industry_fact",
+    "title": "Industry Insight: What Studios Look For",
+    "content": "Most game studios hiring junior concept artists want to see: strong fundamentals (value, form, perspective), 3–5 polished portfolio pieces in their genre, and evidence you can iterate quickly. Not perfection — range and reliability."
+  },
+  {
+    "type": "industry_fact",
+    "title": "Industry Insight: Freelance Pricing Reality",
+    "content": "Emote rates vary widely: $30–$150+ per emote depending on complexity and artist reputation. When starting, aim for $40–$60/emote as a baseline. Chess piece character designs for indie games: $100–$300+ per character depending on detail level."
+  },
+  {
+    "type": "industry_fact",
+    "title": "Industry Insight: The Portfolio Piece Count",
+    "content": "Junior portfolio target: 8–12 polished pieces. Senior: 15–20. Quality beats quantity every time. One exceptional piece does more for your career than 10 average ones. Every piece in your portfolio should be there because you're proud of it."
+  },
+  {
+    "type": "social_tip",
+    "title": "Social Media Tip: The Artist's Golden Ratio",
+    "content": "For art account posting: 50% finished work, 30% process/WIPs, 20% personal/lifestyle. Finished work gets saves. Process gets follows. Personal content builds loyalty. The combination is what grows accounts."
+  },
+  {
+    "type": "social_tip",
+    "title": "Social Media Tip: Writing Captions for Art Posts",
+    "content": "A good art caption: 1 sentence on what it is, 1 sentence on the mood/intent, tools used, relevant hashtags. Example: 'Runic stone prop concept for a dark fantasy game. Wanted that heavy, ancient feel — like it's been there longer than the world around it. Procreate. #conceptart #gameart #propdesign'"
+  },
+  {
+    "type": "social_tip",
+    "title": "Social Media Tip: Meme Recreation Strategy",
+    "content": "When recreating memes in your art style: keep the original layout and text placement (that's what makes it recognisable), change only the visual style. The humour comes from the collision of 'serious art skill' and 'dumb meme.' That contrast is the joke."
+  },
+  {
+    "type": "social_tip",
+    "title": "Social Media Tip: Hashtag Strategy for Concept Art",
+    "content": "Core hashtags to use: #conceptart #gameart #digitalpainting #characterdesign #environmentdesign #artstation #procreate (if relevant) + 2–3 game/topic specific tags per post. Don't use all 30 allowed — 8–12 targeted ones work better."
+  },
+  {
+    "type": "random_challenge",
+    "title": "Weekly Challenge: The Twist Brief",
+    "content": "Take a PS2 game you love and design one object from that world as if it were made for a modern, gritty AAA game. Same fictional object, completely different visual treatment. Sly Cooper's cane as a dark souls weapon. Spyro's gem as a cyberpunk data crystal. Push the contrast."
+  },
+  {
+    "type": "random_challenge",
+    "title": "Weekly Challenge: Sketch to Render",
+    "content": "Take one sketchbook sketch you've done in the last week. Photograph it. Bring it into your digital app. Render it to 80% completion in one session — don't redraw it, work on top of the photo. This is the fastest way to bridge sketchbook work and digital."
+  },
+  {
+    "type": "random_challenge",
+    "title": "Weekend Challenge: The Full Pipeline",
+    "content": "Do a complete concept art pipeline in one weekend: thumbnail → line drawing → value study → colour study → final render. Subject: a prop or creature for an imaginary game. Document each stage. Post all stages as a process breakdown — these perform very well on social."
+  },
+  {
+    "type": "random_challenge",
+    "title": "Challenge: Style Pastiche",
+    "content": "Pick one of the throwback games from your collection (Sly, R&C, Luigi's Mansion) and design a NEW character that could plausibly live in that world. Match the colour palette, silhouette logic, and material language exactly. No new design language — only expand what already exists."
+  }
+]

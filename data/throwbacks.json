@@ -1,0 +1,152 @@
+[
+  {
+    "game": "Sly Cooper and the Thievius Raccoonus",
+    "studio": "Sucker Punch Productions",
+    "year": "2002",
+    "style": "Cel-shaded, comic book noir, exaggerated silhouettes",
+    "art_director": "Chris Zimmerman / Nate Fox era",
+    "find_at": "https://www.artstation.com/search?q=sly+cooper+concept+art",
+    "note": "Study the bold outlines, flat shadow shapes, and strong colour contrast. The character silhouettes read at thumbnail size — that's intentional design. The cel-shading technique was revolutionary for 2002.",
+    "design_lesson": "Silhouette language — every character reads as a unique shape in shadow. Try blocking Sly, Murray, and Bentley as pure shapes: they're completely distinct."
+  },
+  {
+    "game": "Ratchet & Clank",
+    "studio": "Insomniac Games",
+    "year": "2002",
+    "style": "Colourful sci-fi cartoon, Pixar-meets-Looney Tunes energy",
+    "art_director": "Various Insomniac leads",
+    "find_at": "https://www.artstation.com/insomniacgames",
+    "note": "Insomniac's approach to world design is textbook fun sci-fi: consistent material language (chunky metal, bright plastics), readable weapon silhouettes, and environments that tell a story through colour alone.",
+    "design_lesson": "Material language consistency. Every planet/environment has its own palette and texture set. Study how colour codes faction (enemy = red/dark, ally = warm/bright)."
+  },
+  {
+    "game": "Luigi's Mansion",
+    "studio": "Nintendo EAD (Next Level for sequels)",
+    "year": "2001",
+    "style": "Warm-spooky, desaturated environments vs warm character, atmospheric lighting",
+    "art_director": "Shigeru Miyamoto / Takashi Tezuka direction",
+    "find_at": "https://www.spriters-resource.com/gamecube/luigismansion",
+    "note": "The genius of Luigi's Mansion is contrast: Luigi's warm yellow light against cold blue-green rooms. Every room is a miniature lighting study. The ghost designs use exaggerated silhouettes and single-hue colour coding.",
+    "design_lesson": "Warm/cool contrast as the primary light tool. Every scene has a dominant temperature and an opposing accent. The mansion is blue-green; Luigi and his torch are yellow-orange."
+  },
+  {
+    "game": "Jak and Daxter: The Precursor Legacy",
+    "studio": "Naughty Dog",
+    "year": "2001",
+    "style": "Organic futurism, lush environments, seamless world design",
+    "art_director": "Bob Rafei",
+    "find_at": "https://www.artstation.com/search?q=jak+daxter+concept+art",
+    "note": "Jak and Daxter's world design is a masterclass in readable environments. Foreground, midground, background all have distinct value contrast. The character design uses simple shapes that work in silhouette.",
+    "design_lesson": "Depth layering. Near = saturated and warm. Far = desaturated and cool. This is atmospheric perspective used deliberately in every scene."
+  },
+  {
+    "game": "Crash Bandicoot (original trilogy)",
+    "studio": "Naughty Dog",
+    "year": "1996–1998",
+    "style": "Exaggerated cartoon, bold primary colours, iconic silhouette",
+    "art_director": "Charles Zembillas (character design)",
+    "find_at": "https://www.charleszembillas.com",
+    "note": "Charles Zembillas's character design sketches for Crash are publicly available on his site. Study the exploration process — dozens of rejected directions before finding the one that worked.",
+    "design_lesson": "Character exploration quantity. The right design comes from generating 50 bad ones first. Crash's final design worked because of an extremely readable silhouette: jeans, shoes, mohawk — readable at 10px."
+  },
+  {
+    "game": "Spyro the Dragon (original)",
+    "studio": "Insomniac Games",
+    "year": "1998",
+    "style": "Bold, saturated, fantasy world-building, colour-coded worlds",
+    "art_director": "Craig Stitt",
+    "find_at": "https://www.artstation.com/search?q=spyro+concept+art",
+    "note": "Each Spyro homeworld has a completely distinct colour palette, architectural language, and texture vocabulary. Study the homeworlds as separate design systems that still feel unified by the game's overall style.",
+    "design_lesson": "World-building through colour and architecture. The Dragon Artisans world = warm stone + gold. The Magic Crafters world = cold blue + snow. Same world rules, distinct identities."
+  },
+  {
+    "game": "Ape Escape",
+    "studio": "Sony Japan Studio (SCE)",
+    "year": "1999",
+    "style": "Bright, chunky, toy-like, very PS1 era energy",
+    "art_director": "Sony Japan team",
+    "find_at": "https://www.spriters-resource.com/playstation/apeescapeapescape",
+    "note": "Ape Escape is an overlooked design gem. The monkey character designs are incredibly readable and use a consistent visual logic — all wear distinct accessories that code their personality.",
+    "design_lesson": "Accessory as character language. The hat = personality. A character's most unique visual element should tell you something about who they are immediately."
+  },
+  {
+    "game": "Kingdom Hearts",
+    "studio": "Square Enix",
+    "year": "2002",
+    "style": "Anime meets Disney, dramatic lighting, epic character design",
+    "art_director": "Tetsuya Nomura",
+    "find_at": "https://www.artstation.com/search?q=kingdom+hearts+concept",
+    "note": "Nomura's character design is maximalist but always anchored by strong silhouettes. The zipper-and-strap aesthetic is polarising but extremely intentional — every excess detail has a visual weight that contributes to the overall silhouette.",
+    "design_lesson": "Design language consistency. Even when designs are complex, they have a shared visual vocabulary (zippers, belts, spiky hair) that unifies them as belonging to the same world."
+  },
+  {
+    "game": "Shadow of the Colossus",
+    "studio": "Team Ico (Sony)",
+    "year": "2005",
+    "style": "Minimalist environment, maximalist creature design, desolate beauty",
+    "art_director": "Fumito Ueda",
+    "find_at": "https://www.artstation.com/search?q=shadow+of+the+colossus+concept",
+    "note": "One of the greatest art direction achievements in games. The colossi are designed with a 'ruins of a civilisation' logic — they're ancient, mossy, crumbling but still overwhelming. Scale is everything.",
+    "design_lesson": "Scale and contrast. The colossi work because the world around them is empty and small. Contrast creates the impact. Study how isolation amplifies the grandeur of the subject."
+  },
+  {
+    "game": "Ico",
+    "studio": "Team Ico (Sony)",
+    "year": "2001",
+    "style": "Painterly, architectural, quiet and lonely, strong negative space",
+    "art_director": "Fumito Ueda",
+    "find_at": "https://www.google.com/search?q=ico+ps2+concept+art&tbm=isch",
+    "note": "Ico's art direction leans heavily into negative space and architectural scale. The castle feels enormous because Ico is tiny against it. The limited colour palette (bleached stone, blue sky, warm interior light) does extraordinary emotional work.",
+    "design_lesson": "Negative space is active design. Don't fill everything. Let empty space create mood and scale. The most powerful compositions often have a lot of nothing."
+  },
+  {
+    "game": "Ratchet & Clank: Going Commando",
+    "studio": "Insomniac Games",
+    "year": "2003",
+    "style": "Expanded universe, more worlds, sharper sci-fi design",
+    "art_director": "Insomniac team",
+    "find_at": "https://www.artstation.com/search?q=ratchet+going+commando+art",
+    "note": "The sequel pushed the design vocabulary further. Study the weapon concepts — each one is an entertainment design object: readable silhouette, clearly telegraphs its function, looks fun to use.",
+    "design_lesson": "Props communicate function. A weapon should look like it does what it does before the player reads the description. Shape language carries meaning."
+  },
+  {
+    "game": "Sly 2: Band of Thieves",
+    "studio": "Sucker Punch Productions",
+    "year": "2004",
+    "style": "Expanded cel-shading, noir settings, new aesthetic range",
+    "art_director": "Sucker Punch team",
+    "find_at": "https://www.artstation.com/search?q=sly+cooper+band+of+thieves",
+    "note": "Sly 2 expanded the world into Paris, Prague, India, Canada — each location got a distinct colour temperature and architectural language while keeping the cel-shaded language consistent. Study how they adapted the style to radically different settings.",
+    "design_lesson": "Adapting a style to new contexts. The house style (bold outlines, shadow shapes, warm saturates) stays consistent while the subject matter and palette shifts dramatically between levels."
+  },
+  {
+    "game": "Bully (Canis Canem Edit)",
+    "studio": "Rockstar Games",
+    "year": "2006",
+    "style": "Satirical realism, caricature character design, compressed world",
+    "art_director": "Rockstar Vancouver team",
+    "find_at": "https://www.artstation.com/search?q=bully+rockstar+character+design",
+    "note": "Bully's character designs are caricature done right — each clique (jocks, nerds, greasers, preps) has an immediately readable visual language. Fashion as faction coding.",
+    "design_lesson": "Fashion and silhouette as faction design. A character's clothing choices communicate allegiance, class, and personality before a word is said."
+  },
+  {
+    "game": "Beyond Good & Evil",
+    "studio": "Ubisoft Montpellier",
+    "year": "2003",
+    "style": "Earthy, diverse, retro-futurist, strong female lead design",
+    "art_director": "Michel Ancel team",
+    "find_at": "https://www.artstation.com/search?q=beyond+good+evil+concept+art",
+    "note": "Relevant given your Ubisoft interest. BG&E has an incredible design legacy — Jade's design is studied in game design schools as an example of a functional, distinctive, authentic lead character.",
+    "design_lesson": "Purposeful protagonist design. Jade looks like a photojournalist because she IS one. Her design communicates function: practical clothes, camera, athletic but not hyper-sexualised. Design serves story."
+  },
+  {
+    "game": "Pikmin",
+    "studio": "Nintendo EAD",
+    "year": "2001",
+    "style": "Miniature scale, natural textures, bright creature design",
+    "art_director": "Shigeru Miyamoto team",
+    "find_at": "https://www.google.com/search?q=pikmin+concept+art+nintendo&tbm=isch",
+    "note": "Pikmin's design vocabulary is extraordinary for prop and environment work — everyday objects become alien architecture at Pikmin scale. Study how familiar textures (rust, dirt, leaf) read at an unfamiliar scale.",
+    "design_lesson": "Scale transformation. Design the same object at 5 different scales. A tin can is architecture if you're 2cm tall. Scale manipulation is a powerful creative tool for concept artists."
+  }
+]

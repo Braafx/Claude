@@ -1,0 +1,218 @@
+[
+  {
+    "title": "Digital Painting 101 — Full Free Course",
+    "author": "Matt Kohr (Ctrl+Paint)",
+    "url": "https://www.ctrlpaint.com/library",
+    "category": "foundations",
+    "level": "beginner",
+    "format": "video course",
+    "note": "THE starting point. Structured like a real course. Free. Do this before anything else if you haven't."
+  },
+  {
+    "title": "Perspective Made Easy — Drawabox",
+    "author": "Uncomfortable (Drawabox)",
+    "url": "https://drawabox.com",
+    "category": "foundations",
+    "level": "beginner",
+    "format": "lessons + exercises",
+    "note": "Free, rigorous perspective and construction fundamentals. Does the structural thinking that unlocks environments and props."
+  },
+  {
+    "title": "Figure Drawing for All It's Worth — Free Lessons",
+    "author": "Stan Prokopenko (Proko)",
+    "url": "https://www.youtube.com/@ProkoTV",
+    "category": "figure",
+    "level": "beginner-intermediate",
+    "format": "YouTube",
+    "note": "Best free anatomy channel. Start with the Bean and Mannequinization series. Directly relevant to character design."
+  },
+  {
+    "title": "10 Minutes to Better Painting — Color Series",
+    "author": "Marco Bucci",
+    "url": "https://www.youtube.com/@marcobucci",
+    "category": "color",
+    "level": "intermediate",
+    "format": "YouTube",
+    "note": "Compact, dense color theory lessons. His 'How I Paint' series shows a full real-time process. Essential."
+  },
+  {
+    "title": "Painting with Light and Color",
+    "author": "James Gurney (Gurney Journey)",
+    "url": "https://gurneyjourney.blogspot.com",
+    "category": "color",
+    "level": "intermediate-advanced",
+    "format": "blog",
+    "note": "Free blog from the Dinotopia artist. Deep posts on color temperature, light physics, and plein air observation. High signal."
+  },
+  {
+    "title": "Concept Art Fundamentals — FZD School",
+    "author": "Feng Zhu",
+    "url": "https://www.youtube.com/@FZDSCHOOL",
+    "category": "concept-art",
+    "level": "intermediate",
+    "format": "YouTube",
+    "note": "Feng Zhu ran one of the world's top concept art schools. His free YouTube lectures cover design language, ideation, and industry expectations."
+  },
+  {
+    "title": "Environment Concept Art — Full Breakdown",
+    "author": "Tyler Edlin",
+    "url": "https://www.youtube.com/@TylerEdlinArt",
+    "category": "concept-art",
+    "level": "intermediate",
+    "format": "YouTube",
+    "note": "Tyler works in games and films. His process videos show how to go from thumbnail to polished environment concept. Very relevant to your goals."
+  },
+  {
+    "title": "Paint Like a Beginner — Process Series",
+    "author": "Sinix Design",
+    "url": "https://www.youtube.com/@sinixdesign",
+    "category": "digital-painting",
+    "level": "beginner-intermediate",
+    "format": "YouTube",
+    "note": "One of the most concise digital painting teachers. His 'Everything You Need to Know' video alone is worth an hour."
+  },
+  {
+    "title": "Character Design — Full Process",
+    "author": "Ahmed Aldoori",
+    "url": "https://www.youtube.com/@ahmedaldoori",
+    "category": "character",
+    "level": "intermediate",
+    "format": "YouTube",
+    "note": "Clean, methodical character design breakdowns. Strong on silhouette, shape language, and industry-standard presentation."
+  },
+  {
+    "title": "Dynamic Sketching — Foundations",
+    "author": "Peter Han",
+    "url": "https://www.youtube.com/results?search_query=peter+han+dynamic+sketching",
+    "category": "foundations",
+    "level": "beginner-intermediate",
+    "format": "YouTube",
+    "note": "Peter Han's mark-making and organic form approach is foundational for concept artists. Makes your sketchbook work translate to digital."
+  },
+  {
+    "title": "Composition and Visual Design",
+    "author": "Will Weston",
+    "url": "https://willwestonstudio.com/blog",
+    "category": "foundations",
+    "level": "intermediate",
+    "format": "blog",
+    "note": "Free blog posts on composition principles used in film and games. Particularly good on visual hierarchy and eye flow."
+  },
+  {
+    "title": "How to Paint — Free Sample Lessons",
+    "author": "NMA (New Masters Academy)",
+    "url": "https://www.youtube.com/@newmastersacademy",
+    "category": "digital-painting",
+    "level": "intermediate-advanced",
+    "format": "YouTube",
+    "note": "Atelier-level instruction. Free YouTube content includes anatomy, cast drawing, and figure painting demos."
+  },
+  {
+    "title": "Realistic Ink & Sketching Techniques",
+    "author": "Karl Kopinski",
+    "url": "https://www.youtube.com/@karlkopinski",
+    "category": "sketching",
+    "level": "intermediate",
+    "format": "YouTube",
+    "note": "Karl's ink-first approach is excellent for building a strong sketchbook practice. His gestural speed is inspiring and learnable."
+  },
+  {
+    "title": "Concept Art Career Advice",
+    "author": "Robotpencil (Justin Cherry)",
+    "url": "https://www.youtube.com/@robotpencil",
+    "category": "career",
+    "level": "all",
+    "format": "YouTube",
+    "note": "Practical advice on portfolio building, getting into studios, and the realities of concept art work. Very honest, very useful."
+  },
+  {
+    "title": "Visual Storytelling for Games and Film",
+    "author": "CGMA Art School",
+    "url": "https://www.youtube.com/@CGMArt",
+    "category": "concept-art",
+    "level": "intermediate-advanced",
+    "format": "YouTube",
+    "note": "CGMA runs paid courses but their YouTube channel has high-quality free demo content from working industry professionals."
+  },
+  {
+    "title": "Bobby Chiu — Character Design Masterclass",
+    "author": "Bobby Chiu (Imaginism Studios)",
+    "url": "https://www.youtube.com/@BobbyChiu",
+    "category": "character",
+    "level": "intermediate",
+    "format": "YouTube",
+    "note": "Bobby's whimsical characters show strong narrative design. His interviews with industry artists are also worth studying."
+  },
+  {
+    "title": "Line of Action — Free Timed Drawing Practice",
+    "author": "Line of Action",
+    "url": "https://line-of-action.com",
+    "category": "figure",
+    "level": "all",
+    "format": "tool",
+    "note": "Free timed pose reference tool. Use for daily warm-ups. Set to 30-second or 1-minute gestures to build speed and confidence."
+  },
+  {
+    "title": "Watts Atelier — Free YouTube Lessons",
+    "author": "Jeff Watts",
+    "url": "https://www.youtube.com/@WattsAtelier",
+    "category": "foundations",
+    "level": "intermediate-advanced",
+    "format": "YouTube",
+    "note": "Traditional atelier training adapted for working artists. Strong on head drawing and figure which carries into portrait concept work."
+  },
+  {
+    "title": "Visual Development — Schoolism Free Content",
+    "author": "Schoolism",
+    "url": "https://www.youtube.com/@schoolism",
+    "category": "concept-art",
+    "level": "intermediate",
+    "format": "YouTube",
+    "note": "Schoolism has some of the best instructors in the industry (Bobby Chiu, Nathan Fowkes). Free YouTube content is a preview of their paid courses."
+  },
+  {
+    "title": "Pixel Art for Games — Brandon James Greer",
+    "author": "Brandon James Greer",
+    "url": "https://www.youtube.com/@BJGpixel",
+    "category": "game-art",
+    "level": "beginner-intermediate",
+    "format": "YouTube",
+    "note": "Relevant if working on game sprites or emotes. His tutorials cover animation, colour palettes, and game-ready assets."
+  },
+  {
+    "title": "Splash Art Breakdown — League of Legends",
+    "author": "Various Riot Artists (ArtStation)",
+    "url": "https://www.artstation.com/artwork/artstation-picks?search=league+of+legends+splash+art",
+    "category": "concept-art",
+    "level": "advanced",
+    "format": "portfolio study",
+    "note": "Study Riot splash art breakdowns on ArtStation. Note the lighting, character readability, and background integration. This is your long-term target."
+  },
+  {
+    "title": "Colour and Light — Full Free Reference",
+    "author": "James Gurney",
+    "url": "https://www.amazon.co.uk/Color-Light-Guide-Realist-Painter/dp/0740797719",
+    "category": "color",
+    "level": "intermediate",
+    "format": "book",
+    "note": "Get this book. It's the industry standard reference. Not free but ~£20 and worth every penny. Look for PDFs online in the meantime."
+  },
+  {
+    "title": "How to Make Emotes for Twitch/Discord",
+    "author": "Various Game Artists (YouTube)",
+    "url": "https://www.youtube.com/results?search_query=how+to+make+twitch+emotes+for+beginners",
+    "category": "game-art",
+    "level": "beginner",
+    "format": "YouTube",
+    "note": "Directly relevant to your emote commission. Key points: 112x112px minimum, strong silhouette, bold colours, readable at tiny sizes."
+  },
+  {
+    "title": "Game Prop Design Fundamentals",
+    "author": "Tyler Edlin + FZD blend",
+    "url": "https://www.youtube.com/results?search_query=game+prop+concept+design+tutorial",
+    "category": "concept-art",
+    "level": "intermediate",
+    "format": "YouTube",
+    "note": "For your chess piece commission — props need a clear read at multiple scales. Study how game props communicate faction/function through silhouette."
+  }
+]

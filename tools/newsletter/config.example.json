@@ -1,0 +1,16 @@
+{
+  "_instructions": [
+    "1. Copy this file to config.json (same directory)",
+    "2. Fill in your Gmail address and an App Password (NOT your normal Gmail password)",
+    "3. To create a Gmail App Password:",
+    "   - Go to myaccount.google.com/security",
+    "   - Enable 2-Step Verification if not already enabled",
+    "   - Go to App Passwords (search for it in the security page)",
+    "   - Create a new App Password for 'Mail' on 'Other (Custom name)' — call it 'Art Newsletter'",
+    "   - Paste the 16-character password below",
+    "4. config.json is gitignored — your credentials will never be committed"
+  ],
+  "from_email": "your.gmail@gmail.com",
+  "to_email": "your.gmail@gmail.com",
+  "app_password": "xxxx xxxx xxxx xxxx"
+}
