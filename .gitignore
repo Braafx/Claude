@@ -13,6 +13,13 @@ tools/newsletter/config.json
 newsletters/
 references/
 
+# Art uploads — stay local, never commit originals
+uploads/
+
+# Personal generated social content — commit intentionally only
+# (remove this line if you want social/ tracked automatically)
+# social/
+
 # Environment
 .env
 .venv/

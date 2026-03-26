@@ -1,0 +1,183 @@
+{
+  "platforms": {
+    "print_on_demand": [
+      {
+        "name": "INPRNT",
+        "url": "https://www.inprnt.com",
+        "royalty": "50%",
+        "best_for": ["characters", "environments", "portraits", "finished illustrations"],
+        "price_range": "£15–45 per print",
+        "note": "Highest royalty of any print-on-demand platform. Invite-only but easy to get in. Artist-respected. Best for portfolio-quality pieces."
+      },
+      {
+        "name": "Redbubble",
+        "url": "https://www.redbubble.com",
+        "royalty": "20% (you set the markup)",
+        "best_for": ["characters", "memes", "icons", "stickers", "phone cases"],
+        "price_range": "£3–40 depending on product",
+        "note": "Easiest to get started. Stickers perform well for game-adjacent art. No approval needed — upload and sell immediately."
+      },
+      {
+        "name": "Society6",
+        "url": "https://society6.com",
+        "royalty": "10% on most products, 30% on art prints",
+        "best_for": ["environments", "abstract", "lifestyle illustration"],
+        "price_range": "£15–60",
+        "note": "Better for lifestyle/home decor audiences. Less game-art focused than INPRNT."
+      },
+      {
+        "name": "Teepublic",
+        "url": "https://www.teepublic.com",
+        "royalty": "Fixed per sale (£2–5 on regular, more on premium)",
+        "best_for": ["characters", "fan art", "gaming", "apparel"],
+        "price_range": "£15–30 per item",
+        "note": "T-shirts perform very well for game fan art and character designs. Lower royalty but high volume potential."
+      }
+    ],
+    "commission_platforms": [
+      {
+        "name": "ArtStation",
+        "url": "https://www.artstation.com",
+        "best_for": ["concept art", "portfolio showcase", "industry visibility"],
+        "note": "Primary portfolio + commission inquiry platform. Visibility here = industry credibility."
+      },
+      {
+        "name": "Ko-fi",
+        "url": "https://ko-fi.com",
+        "best_for": ["commissions", "supporter tips", "monthly art drops", "emotes"],
+        "note": "Zero platform fee for commissions (Ko-fi takes 0% on donations, 5% on shops). Great for emotes and simple commissions."
+      },
+      {
+        "name": "Gumroad",
+        "url": "https://gumroad.com",
+        "best_for": ["digital downloads", "brush packs", "tutorials", "art packs", "process PDFs"],
+        "royalty": "~10% fee",
+        "note": "Best platform for selling digital products — brush packs, process PDFs, tutorial videos. Your coach notes alone could become a product."
+      },
+      {
+        "name": "Fiverr",
+        "url": "https://www.fiverr.com",
+        "best_for": ["emotes", "logos", "simple commissions", "game icons"],
+        "note": "High competition but large buyer base. Emotes and Twitch assets do well. Start at £40–60/emote, raise as you get reviews."
+      }
+    ],
+    "streaming_and_game_art": [
+      {
+        "name": "Twitch/Discord Emote Market",
+        "url": "https://www.fiverr.com",
+        "best_for": ["emotes", "sub badges", "channel points icons"],
+        "price_range": "£30–100 per emote",
+        "note": "Strong demand. Streamers need emotes constantly. Get a few done, post them, and inquiries come. Quality and fast turnaround are the differentiators."
+      },
+      {
+        "name": "itch.io",
+        "url": "https://itch.io",
+        "best_for": ["game art packs", "prop sheets", "environment assets", "indie game clients"],
+        "note": "Sell art asset packs or use it to find indie game devs who need concept artists. Active community of solo devs with budgets."
+      }
+    ]
+  },
+  "by_art_type": {
+    "character_design": {
+      "top_options": ["INPRNT print", "commission showcase on ArtStation", "emote if expressive", "Redbubble sticker/apparel"],
+      "immediate_move": "Post to ArtStation with full project description. Add to commission portfolio. If the face is expressive, consider a sticker on Redbubble.",
+      "realistic_rates": {
+        "print": "£20–40",
+        "commission_similar": "£80–200 depending on detail",
+        "emote_version": "£40–60"
+      }
+    },
+    "prop_artifact": {
+      "top_options": ["Portfolio piece (indie game client bait)", "ArtStation visibility", "print if composition is strong"],
+      "immediate_move": "Add to ArtStation. DM 2–3 indie devs on Twitter/itch.io who are actively looking for art. This type of piece gets you game commissions.",
+      "realistic_rates": {
+        "prop_sheet_commission": "£60–150",
+        "print": "£15–30 if composition works"
+      }
+    },
+    "environment_scene": {
+      "top_options": ["INPRNT print (environments sell well)", "matte painting freelance bait", "ArtStation visibility"],
+      "immediate_move": "Upload to ArtStation at full resolution. Environments get the most saves and shares. Tag #environmentdesign #conceptart.",
+      "realistic_rates": {
+        "print": "£20–50",
+        "freelance_environment": "£150–400 per scene"
+      }
+    },
+    "sketch_traditional": {
+      "top_options": ["Post raw on social (strong engagement)", "develop digitally for portfolio", "sell sketchbook pages as originals"],
+      "immediate_move": "Post to Instagram/TikTok as-is with #dailysketch. Raw sketch content gets strong organic reach. Then develop the best one digitally.",
+      "realistic_rates": {
+        "original_sketch_sale": "£20–80 for sketchbook pages",
+        "digital_version": "Adds 3–10x value once rendered"
+      }
+    },
+    "portrait": {
+      "top_options": ["INPRNT/Redbubble print", "commission showcase", "fan art engagement"],
+      "immediate_move": "If it's a fan art portrait, post with the character's game/show tag for algorithm boost. If original character, add to commission portfolio.",
+      "realistic_rates": {
+        "print": "£20–40",
+        "commission_portrait": "£60–150"
+      }
+    },
+    "creature_design": {
+      "top_options": ["Portfolio piece (creature design is specialist)", "ArtStation + industry DMs", "print if visually striking"],
+      "immediate_move": "Creature design is a specialist skill that studios explicitly look for. Post to ArtStation with a breakdown of the design logic — this is hireable content.",
+      "realistic_rates": {
+        "creature_commission": "£100–300",
+        "print": "£20–35"
+      }
+    },
+    "meme_illustration": {
+      "top_options": ["Social virality play", "Redbubble sticker", "engagement driver for art account"],
+      "immediate_move": "Post immediately — meme content has a short shelf life. Redbubble sticker if the design is clean enough. Use it to funnel followers to your serious art.",
+      "realistic_rates": {
+        "sticker": "£3–6 royalty per sale"
+      }
+    },
+    "texture_material_study": {
+      "top_options": ["Process tutorial (sell the method)", "portfolio skill demo", "Gumroad texture pack"],
+      "immediate_move": "Post as a study with educational framing (#artitips, #conceptarttips). This type of content gets saves and positions you as knowledgeable. Could bundle 10 studies as a Gumroad PDF.",
+      "realistic_rates": {
+        "tutorial_pdf": "£5–15",
+        "texture_pack": "£8–20"
+      }
+    }
+  },
+  "passive_income_builds": [
+    {
+      "product": "Brush pack",
+      "effort": "Medium",
+      "platform": "Gumroad",
+      "price": "£5–15",
+      "note": "Once you have a distinctive digital style, package your brushes. Artists who publish brushes build an audience fast."
+    },
+    {
+      "product": "Process PDF / tutorial",
+      "effort": "Medium",
+      "platform": "Gumroad / Ko-fi",
+      "price": "£8–20",
+      "note": "Document your 5-step process as a PDF with your own artwork as examples. Beginners buy these. 100 sales = £800–2000."
+    },
+    {
+      "product": "Print shop",
+      "effort": "Low (once set up)",
+      "platform": "INPRNT",
+      "price": "£20–45/print",
+      "note": "Set it up once, earn passively. Every polished piece you post can go straight into the shop."
+    },
+    {
+      "product": "Monthly art drop / Patreon",
+      "effort": "High (ongoing)",
+      "platform": "Patreon / Ko-fi",
+      "price": "£3–10/month per supporter",
+      "note": "Build toward this once you have 500+ engaged followers. Offer WIPs, brushes, early access, sketchbook scans."
+    },
+    {
+      "product": "Emote packs",
+      "effort": "Medium",
+      "platform": "Ko-fi / Fiverr",
+      "price": "£40–60 per custom, or £15–25 for pre-made packs",
+      "note": "Pre-made emote packs (generic emotions for any streamer) sell well as digital downloads. Make once, sell many."
+    }
+  ]
+}

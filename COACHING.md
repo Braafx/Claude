@@ -168,6 +168,48 @@ Audience:    #procreate #ipadart #digitalart #illustration
 
 ---
 
+## Content Pipeline — Upload to Posted in 10 Minutes
+
+The full flow from making art to having it posted:
+
+```
+FINISHED PIECE (digital or photo of traditional)
+  → share image in Claude Code chat
+  → /post
+  → get: 4 platform captions + hashtags + monetization breakdown
+  → copy-paste to Instagram / ArtStation / TikTok / Twitter
+  → done
+
+SKETCHBOOK PAGE (photo of multiple sketches)
+  → share image in Claude Code chat
+  → /sketch-review
+  → get: scored evaluation of every sketch + winner picked + digital brief
+  → post the raw sketch now if strong enough
+  → use the brief when you go digital next session
+
+SKETCH → DIGITAL PIPELINE
+  → pick sketch (via /sketch-review OR your own judgement)
+  → use the digital brief as your /draw input
+  → make the piece
+  → /post when done
+```
+
+**Posting schedule (minimum viable):**
+
+| Day | Content | Command |
+|-----|---------|---------|
+| Mon | Finished or near-finished piece | `/post` |
+| Wed | Process breakdown or WIP | `/post` (WIP mode) |
+| Fri | Sketchbook page / sketch | `/sketch-review` → quick `/post` |
+| Weekend | Whatever feels good — meme, fan art, study | `/post` |
+
+**Monetization reflex** — after every `/post`, check the monetization breakdown. One action per week minimum:
+- Add the piece to your INPRNT shop
+- Price a commission for this type of work
+- DM one indie dev who could use this style
+
+---
+
 ## Active Commissions
 
 ### 1. Twitch Emotes — Streamer Colleague
