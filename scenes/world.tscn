@@ -1,0 +1,49 @@
+[gd_scene load_steps=3 format=3 uid="uid://dq5n8v3r7t1xw"]
+
+; ── External resources ────────────────────────────────────────────────────────
+
+; The follow-camera script (attached to Camera3D below).
+[ext_resource type="Script" uid="uid://b2mf6k4hn9r3p" path="res://scripts/camera_follow.gd" id="1_camera"]
+
+; The fully self-contained Player scene (CharacterBody3D + collision + mesh).
+[ext_resource type="PackedScene" uid="uid://bpfmwsn1x23ky" path="res://scenes/player.tscn" id="2_player"]
+
+; ── Scene tree ────────────────────────────────────────────────────────────────
+
+; Root Node3D — the "World" that owns everything in this level.
+[node name="World" type="Node3D"]
+
+; ── Lighting ──────────────────────────────────────────────────────────────────
+; A single DirectionalLight3D approximating sunlight coming from the upper-right.
+; shadow_enabled = true gives basic hard shadows so geometry reads in 3D space.
+[node name="DirectionalLight3D" type="DirectionalLight3D" parent="."]
+transform = Transform3D(0.866025, -0.433013, 0.25, 0, 0.5, 0.866025, -0.5, -0.75, 0.433013, 0, 10, 0)
+light_energy = 1.2
+shadow_enabled = true
+
+; ── Floor ─────────────────────────────────────────────────────────────────────
+; CSGBox3D gives us an instant solid floor with built-in collision when
+; use_collision = true — no separate StaticBody3D required.
+; Centred at Y = -0.5 so its top surface sits exactly at Y = 0.
+[node name="Floor" type="CSGBox3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -0.5, 0)
+size = Vector3(20, 1, 20)
+use_collision = true
+
+; ── Player ────────────────────────────────────────────────────────────────────
+; Instance of player.tscn. Spawned at Y = 2 so it drops cleanly onto the floor
+; rather than starting inside or exactly on the surface (avoids edge-case physics
+; glitches on the first frame).
+[node name="Player" parent="." instance=ExtResource("2_player")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2, 0)
+
+; ── Camera ────────────────────────────────────────────────────────────────────
+; Sits behind and above the player's spawn point as its initial transform,
+; then the camera_follow script smoothly repositions it every frame.
+; `target` must point to the Player node sibling defined above.
+[node name="Camera3D" type="Camera3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 0.866025, -0.5, 0, 0.5, 0.866025, 0, 5.5, 8)
+script = ExtResource("1_camera")
+target = NodePath("../Player")
+follow_offset = Vector3(0, 3.5, 6)
+follow_speed = 6.0

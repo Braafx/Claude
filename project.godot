@@ -1,0 +1,20 @@
+; Engine configuration file.
+; Edit via the Godot editor UI where possible — not all properties are
+; self-documented in this plain-text form.
+;
+; Format:
+;   [section] ; comment
+;   key=value
+
+config_version=5
+
+[application]
+
+config/name="Rubbish Rummages"
+config/description="A 3D rubbish-collecting platformer built in Godot 4."
+run/main_scene="res://scenes/world.tscn"
+config/features=PackedStringArray("4.2", "Forward Plus")
+
+[rendering]
+
+renderer/rendering_method="forward_plus"

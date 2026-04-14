@@ -24,3 +24,7 @@ uploads/
 .env
 .venv/
 venv/
+
+# Godot 4 — auto-generated, never commit
+.godot/
+*.uid
